@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "demucs",
+  "versions": [
+    {
+      "commit": "e976d93ecc3865e5757426930257e200846a520a",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:48:23.155899+00:00"
+    }
+  ]
+}
